@@ -13,7 +13,7 @@ Caleb -
   Development Engineer (Back End)
 Nidhi - 
   DB Administrator - Database Management Administrator. In charge of working with Mr. Ben-Yaakov to work on the data base for the application involving data with users. If an aspect of the database is needed from the team, the DB Administrator should work and provide the product as soon as possible.
-  Development Engineer (Back End)
+  Development Engineer - Working on the back end of the application.
 Pari - 
   Development Engineer (Back End)
 Danyal - 
