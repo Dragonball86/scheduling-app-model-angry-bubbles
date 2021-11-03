@@ -4,7 +4,7 @@ Ricky -
   Development Manager - The development manager coordinates activities of other developers and specifies their roles.
   QA Engineer
 Garrett - 
-  Development Engineer (Back End)
+  Development Engineer (Back End) - The development engineer helps create the structures of the product which in this case is the API and other functions. They also then test theirs products(code) and assess them.
 Hersh -  
   Product Manager - The product manager is the risk manager. They manage how many features will be available in product, what is possible in the given constraints, and balance risks.
   QA Engineer
